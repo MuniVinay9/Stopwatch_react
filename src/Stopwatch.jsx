@@ -31,7 +31,7 @@ function Stopwatch(){
 
     function reset(){
         setElapsedTime(0);
-        setIsRunning(flase);
+        setIsRunning(false);
     }
 
     function formatTime(){
